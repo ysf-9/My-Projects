@@ -9,7 +9,7 @@ Welcome to my portfolio repository! This collection showcases my skills in data 
 ### 1. 🎬 Netflix Movie Ratings Analysis
 * **File:** `Netflix_Movie_Rating_Dataset.ipynb`
 * **Objective:** Make a Recommendation System 
-* **Tech Stack:** Python, Pandas, Matplotlib / Seaborn
+* **Tech Stack:** Python
 * **Key Skills:** Data cleaning, handling missing values, and generating visual trends.
 
 ---
