@@ -8,7 +8,7 @@ Welcome to my portfolio repository! This collection showcases my skills in data 
 
 ### 1. 🎬 Netflix Movie Ratings Analysis
 * **File:** `Netflix_Movie_Rating_Dataset.ipynb`
-* **Objective:** Clean and analyze Netflix content data to discover trends in movie ratings, release years, and genres.
+* **Objective:** Make a Recommendation System 
 * **Tech Stack:** Python, Pandas, Matplotlib / Seaborn
 * **Key Skills:** Data cleaning, handling missing values, and generating visual trends.
 
