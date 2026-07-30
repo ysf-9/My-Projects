@@ -40,10 +40,10 @@ Welcome to my portfolio repository! This collection showcases my skills in data 
 
 ## 🛠️ Tools & Libraries Used
 * **Languages:** Python
-* **Data Processing:** Pandas, NumPy
+* **Data Processing:** Pandas
 * **Visualization:** Matplotlib
 * **Machine Learning:** Scikit-Learn
-* **Environment:** Google Colab / Jupyter Notebooks
+* **Environment:** Google Colab
 
 ---
 
