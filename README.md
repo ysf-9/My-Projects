@@ -1,31 +1,53 @@
-# breast-cancer-logistic-regression
-Binary classification model using Python, Pandas# Python Data Analysis & Machine Learning Portfolio
+# Data Analysis & Machine Learning Projects
 
-Welcome to my portfolio repository! This project showcases my skills in data wrangling, data visualization, and binary classification using Python and Google Colab.
+Welcome to my portfolio repository! This collection showcases my skills in data wrangling, exploratory data analysis (EDA), data visualization, and machine learning using Python, Pandas, Matplotlib, and Scikit-Learn.
 
 ---
 
-## 📁 Repository Contents
+## 📁 Repository Projects
 
-### 1. `Breast_Cancer.ipynb` — Machine Learning Classification
-* **Objective:** Predict binary target outcomes using medical features from the Breast Cancer dataset.
-* **Tech Stack:** Python, `pandas`, `scikit-learn` (`LogisticRegression`).
-* **Key Steps:** Data loading, feature/target splitting, model training, and performance evaluation using accuracy score.
+### 1. 🎬 Netflix Movie Ratings Analysis
+* **File:** `Netflix_Movie_Rating_Dataset.ipynb`
+* **Objective:** Clean and analyze Netflix content data to discover trends in movie ratings, release years, and genres.
+* **Tech Stack:** Python, Pandas, Matplotlib / Seaborn
+* **Key Skills:** Data cleaning, handling missing values, and generating visual trends.
 
-### 2. `visiualization.ipynb` — Data Visualization & Analysis
-* **Objective:** Perform exploratory data analysis (EDA) and visualize key trends over time.
-* **Tech Stack:** Python, `pandas`, `matplotlib`.
-* **Key Skills:** Custom line plots, axis labeling, and trend identification.
+---
+
+### 2. 🌸 Iris Flower Classification
+* **File:** `Iris.ipynb`
+* **Objective:** Build a classification model to accurately identify flower species based on sepal and petal measurements.
+* **Tech Stack:** Python, Pandas, Scikit-Learn
+* **Key Skills:** Feature scaling, model training, and performance evaluation.
+
+---
+
+### 3. 🩺 Breast Cancer Logistic Regression
+* **File:** `Breast_Cancer.ipynb`
+* **Objective:** Predict binary target outcomes using medical features from the Wisconsin Breast Cancer dataset.
+* **Tech Stack:** Python, Pandas, Scikit-Learn (`LogisticRegression`)
+* **Key Skills:** Binary classification, feature selection, and accuracy scoring.
+
+---
+
+### 4. 📊 Data Visualization & Analysis
+* **File:** `visiualization.ipynb`
+* **Objective:** Perform exploratory data analysis (EDA) and render visual reports from structured datasets.
+* **Tech Stack:** Python, Pandas, Matplotlib
+* **Key Skills:** Custom line/bar plots, axis labeling, and insight extraction.
 
 ---
 
 ## 🛠️ Tools & Libraries Used
-* **Language:** Python
-* **Data Wrangling:** Pandas
+* **Languages:** Python
+* **Data Processing:** Pandas, NumPy
 * **Visualization:** Matplotlib
 * **Machine Learning:** Scikit-Learn
-* **Environment:** Google Colab
+* **Environment:** Google Colab / Jupyter Notebooks
 
 ---
 
-📩 *Open for entry-level freelance projects in Data Cleaning, Visualizations, and Baseline ML Models!*, and Scikit-learn.
+## 💼 Work With Me
+Need help cleaning datasets, fixing spreadsheets, or building Python visual reports?
+* **Fiverr:** [Hire Me on Fiverr](https://www.fiverr.com/joe_099)
+* **GitHub:** [github.com/ysf-9](https://github.com/ysf-9)
